@@ -7,6 +7,7 @@
 
 ## 主要分四個步驟:
 
+---
 * Step 1 簡易說明:
 
   ![Step 1](./pics/SonarCFamily_for_Objective-C_Plugins_Doc_SonarQube_1.png "")
@@ -15,6 +16,7 @@
   * 有 license 後，可以手動安裝外掛，或者網站直接安裝。
 
 
+---
 * Step 2 簡易說明:
 
   ![Step 2](./pics/SonarCFamily_for_Objective-C_Plugins_Doc_SonarQube_2.png)
@@ -23,6 +25,7 @@
   * [細部安裝說明](./sonar-scanner/README.md)
 
 
+---
 * Step 3 簡易說明:
 
   ![Step 3](./pics/SonarCFamily_for_Objective-C_Plugins_Doc_SonarQube_3.png)
@@ -32,6 +35,7 @@
   * [細部安裝說明](./build-wrapper/README.md)
 
 
+---
 * Step 4 簡易說明:
 
   ![Step 4](./pics/SonarCFamily_for_Objective-C_Plugins_Doc_SonarQube_4.png)
