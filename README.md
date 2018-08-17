@@ -6,6 +6,8 @@
 
 # [Developer Edition Trial Install](./Developer_Edition/README.md)
 
+# [Mac Client 安裝環境](./MacEnvInstall/README.md)
+
 # 分析參考
  * [SonarSource ME 分析](https://docs.google.com/spreadsheets/d/10l0t31xGAcZTIaUls2cqtdzK03NYgGvtGsTJg2Y7ru0/edit#gid=37388302)
 
