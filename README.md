@@ -9,11 +9,10 @@
 # [Mac Client 安裝環境](./MacEnvInstall/README.md)
 
 ---
-# 分析參考
- * [SonarSource ME 分析](https://docs.google.com/spreadsheets/d/10l0t31xGAcZTIaUls2cqtdzK03NYgGvtGsTJg2Y7ru0/edit#gid=37388302)
-   * 裡面有 survey 資料及相關連結
+# TODO 分析參考
+ * [SonarSource 扼要 分析]
 
- * [SonarSource Price 分析](https://docs.google.com/spreadsheets/d/10l0t31xGAcZTIaUls2cqtdzK03NYgGvtGsTJg2Y7ru0/edit#gid=1476733927)
+ * [SonarSource Price 分析]
 
 ---
 # 參考網址
