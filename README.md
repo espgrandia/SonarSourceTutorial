@@ -4,18 +4,20 @@
  * 支援多種程式語言
  * 主要區分 SonarQube，SonarLint，Code Analyzers
 
+# [SonarSource 說明](./Note/README.md)
+
 # [Developer Edition Trial Install](./Developer_Edition/README.md)
 
 # [Mac Client 安裝環境](./MacEnvInstall/README.md)
 
 ---
 # TODO 分析參考
- * [SonarSource 扼要 分析]
+
 
  * [SonarSource Price 分析]
 
 ---
-# 參考網址
+# 官方參考網址
  * [SonarSource](https://www.sonarsource.com/)
  * [SonarQube](https://www.sonarsource.com/products/sonarqube/)
  * [Code Analyzers](https://www.sonarsource.com/products/codeanalyzers/)
