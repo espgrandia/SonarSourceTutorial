@@ -10,6 +10,8 @@
 
 # [Mac Client 安裝環境](./MacEnvInstall/README.md)
 
+# [Delete Project 測試](./Delete_Project_Test/README.md)
+
 ---
 # TODO 分析參考
 
