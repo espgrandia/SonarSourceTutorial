@@ -1,4 +1,4 @@
-# 安裝 sonar qube 在公司的 VM 環境
+# 在 VM 環境 安裝 sonar qube
  * 將分成兩部分介紹
    * VM 環境確認
    * sonar qube 安裝步驟
