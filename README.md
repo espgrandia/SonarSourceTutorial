@@ -12,6 +12,8 @@
 
 # [Delete Project 測試](./Delete_Project_Test/README.md)
 
+# [Sonar Qube 安裝](./SonarQubeInstall/README.md)
+
 ---
 # TODO 分析參考
 
