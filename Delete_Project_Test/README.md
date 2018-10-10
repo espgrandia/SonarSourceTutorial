@@ -1,13 +1,17 @@
 
 # 測試 sonar qube 上 刪除專案與 LOCs 的關聯
 
-## 說明:
- * LOCs: 為sonar qube 的最大行數限制
- * 測試方案: sonar qube developer edition 250k LOCs 版本
- * 測試方式: 刪除某個測試專案，觀察 LOCs 差異
+## 說明
+
+* LOCs: 為sonar qube 的最大行數限制
+
+* 測試方案: sonar qube developer edition 250k LOCs 版本
+
+* 測試方式: 刪除某個測試專案，觀察 LOCs 差異
 
 ---
-### 刪除專案前的的LOCs(154,691 lines)
+
+### 刪除專案前的的LOCs (154,691 lines)
 
 ![before delete project](./pics/sonarqube_LOCs_0.png)
 
@@ -27,13 +31,16 @@
 
 ![click License Manager](./pics/sonarqube_LOCs_4.png)
 
-
 ### 刪除後的LOCs資訊(154,681 lines)
 
 ![click License Manager](./pics/sonarqube_LOCs_4.png)
 
 ---
-## 結論:
- * 刪除專案時，其所佔用的LOCs會被扣掉。
- * 可設定警戒值(threadhold value)來做預警並整理可刪除專案。
- * 不過刪除後記錄會消失(請謹慎處理)。
+
+## 結論
+
+* 刪除專案時，其所佔用的LOCs會被扣掉。
+
+* 可設定警戒值(threadhold value)來做預警並整理可刪除專案。
+
+* 不過刪除後記錄會消失(請謹慎處理)。

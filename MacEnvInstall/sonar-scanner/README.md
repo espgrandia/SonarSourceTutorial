@@ -1,11 +1,13 @@
 # sonar-scanner
+
 ## 安裝方式:
 
 ### HomeBrew Install:
+
 * brew search sonar:
 
   ![brew search sonar](./pics/SonarScanner_BrewSearchSonar_0.png)
-   
+
 * brew install:
 
   ![brew install sonar-scanner](./pics/SonarScanner_BrewSearchSonar_1.png)
@@ -17,7 +19,6 @@
 * 簡易說明:
 
   ![Analyzing_with_SonarQube_Scanner](./pics/Analyzing_with_SonarQube_Scanner_0.png)
-
 
 ### 官方下載與 brew install 版本差異:
 

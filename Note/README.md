@@ -1,23 +1,28 @@
 
 # Sonar Qube 可以做的事情
-## SonarQube 程式碼品質分析工具用 7 個維度來分析程式碼品質，包括：
 
- * 程式架構　Architecture & Desig
+---
 
- * 冗餘程式　Duplications
+## SonarQube 程式碼品質分析工具用 7 個維度來分析程式碼品質，包括
 
- * 單元測試　Unit tests
+* 程式架構　Architecture & Desig
 
- * 複雜度　　Complexity
+* 冗餘程式　Duplications
 
- * 潛在問題　Potential bugs
+* 單元測試　Unit tests
 
- * 寫作原則　Coding rules
+* 複雜度　　Complexity
 
- * 註解　　　Comments
+* 潛在問題　Potential bugs
 
+* 寫作原則　Coding rules
 
-# 參考網址
+* 註解　　　Comments
+
+---
+
+## 參考網址
+
 | 項目 | 說明 | 附註 |
 | ---- | ------------------------------- | ---------- |
 | SonarQube | [Continuous Code Quality / SonarQube](https://www.sonarqube.org/) |  |

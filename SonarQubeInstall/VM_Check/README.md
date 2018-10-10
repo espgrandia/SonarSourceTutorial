@@ -1,19 +1,20 @@
-# 申請規格如下:
-  * 作業系統：Ubuntu 16.04 LTS
-  * 記憶體：8G
-  * 處理器數量(預設4core)：4
-  * 硬碟:
-    * system : 60 GB
-    * data   : 300 GB
+# 申請規格如下
 
+* 作業系統：Ubuntu 16.04 LTS
+* 記憶體：8G
+* 處理器數量(預設4core)：4
+* 硬碟:
+  * system : 60 GB
+  * data   : 300 GB
 
 ---
 
-# Check OS
- ## command line : cat /etc/*release
+## Check OS
 
-```
-server@MeSonar:~$ cat /etc/*release
+### command line : cat /etc/*release
+
+``` txt
+> server@MeSonar:~$ cat /etc/*release
 DISTRIB_ID=Ubuntu
 DISTRIB_RELEASE=16.04
 DISTRIB_CODENAME=xenial
@@ -33,11 +34,11 @@ UBUNTU_CODENAME=xenial
 
 ---
 
-# Check cpu
-  ## command line : 
+## Check cpu
 
-```
+### command line : sudo lshw -C cpu
 
+``` txt
 server@MeSonar:~$ sudo lshw -C cpu
 [sudo] password for server: 
   *-cpu:0                 
@@ -102,10 +103,11 @@ server@MeSonar:~$ sudo lshw -C cpu
 
 ---
 
-# Check memory
-  ## command line : cat /proc/meminfo
+## Check memory
 
-```
+### command line : cat /proc/meminfo
+
+``` txt
 server@MeSonar:~$ cat /proc/meminfo
 MemTotal:        8174928 kB
 MemFree:         3910364 kB
@@ -157,10 +159,11 @@ DirectMap1G:     2097152 kB
 
 ---
 
-# Check Hard Drive:
-  ## command line : df -h
+## Check Hard Drive:
 
-```
+### command line : df -h
+
+``` txt
     server@MeSonar:~$ df -h
     Filesystem                   Size  Used Avail Use% Mounted on
     udev                         3.9G     0  3.9G   0% /dev
@@ -174,6 +177,6 @@ DirectMap1G:     2097152 kB
     tmpfs                        799M     0  799M   0% /run/user/1000
 ```
 
-
 ---
-# 綜合上述檢查與規格無誤。
+
+## 綜合上述檢查與規格無誤
