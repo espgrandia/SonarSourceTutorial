@@ -4,7 +4,7 @@
 * 記憶體：8G
 * 處理器數量(預設4core)：4
 * 硬碟:
-  * system : 60 GB
+  * system : 100 GB
   * data   : 300 GB
 
 ---
@@ -166,14 +166,15 @@ DirectMap1G:     2097152 kB
 ``` txt
     server@MeSonar:~$ df -h
     Filesystem                   Size  Used Avail Use% Mounted on
-    udev                         3.9G     0  3.9G   0% /dev
-    tmpfs                        799M   58M  741M   8% /run
-    /dev/mapper/ubuntu--vg-root   58G  3.3G   52G   6% /
+    udev                         3.9G  4.0K  3.9G   1% /dev
+    tmpfs                        799M   66M  733M   9% /run
+    /dev/mapper/ubuntu--vg-root   97G  3.3G   90G   4% /
     tmpfs                        3.9G  1.9M  3.9G   1% /dev/shm
     tmpfs                        5.0M     0  5.0M   0% /run/lock
     tmpfs                        3.9G     0  3.9G   0% /sys/fs/cgroup
     /dev/sdb1                    296G  131M  281G   1% /data
     /dev/sda1                    472M   58M  390M  13% /boot
+    tmpfs                        799M     0  799M   0% /run/user/0
     tmpfs                        799M     0  799M   0% /run/user/1000
 ```
 
