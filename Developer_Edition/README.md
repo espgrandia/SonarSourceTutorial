@@ -1,4 +1,4 @@
-# iOS : Objective-C/Swift 需要 Developer Edition 版本才能剖析。
+# iOS : Objective-C/Swift 需要 Developer Edition 版本才能剖析
 
 ## Community Edition plus
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 下載步驟:
+## 下載步驟
 
 * 選擇方案:
 
