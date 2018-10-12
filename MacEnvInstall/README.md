@@ -1,18 +1,18 @@
-# 官方的參考網址: 針對 Objective-C 的使用方式:
+# 官方的參考網址: 針對 Objective-C 的使用方式
 
 * [SonarCFamily+for+Objective-C](https://docs.sonarqube.org/display/PLUG/SonarCFamily+for+Objective-C)
 
 ---
 
-# 以下為官網上的說明範例 (製作時間: 2018-08-17)
+## 以下為官網上的說明範例 (製作時間: 2018-08-17)
 
-## 主要分四個步驟:
+### 主要分四個步驟
 
 ---
 
 * Step 1 簡易說明:
 
-  ![Step 1](./pics/SonarCFamily_for_Objective-C_Plugins_Doc_SonarQube_1.png "")
+  ![Step 1](./pics/SonarCFamily_for_Objective-C_Plugins_Doc_SonarQube_1.png)
 
   * sonar qube (server) 需要處理設定 Edition 以上版本的 License.
   * 有 license 後，可以手動安裝外掛，或者網站直接安裝。
