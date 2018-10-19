@@ -3,11 +3,15 @@
 * 主要內容如下:
   * sonar source 的用途
   
-  * sonar qube 建構環境
+  * Mac Client 環境建置
   
   * objc/swift 測試專案
 
   * 測試過程記錄
+
+  * sonar qube 建構環境
+
+  * sonar qube 設定正式的 License Key
 
 ---
 
