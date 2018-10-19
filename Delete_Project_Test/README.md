@@ -33,7 +33,7 @@
 
 ### 刪除後的LOCs資訊(154,681 lines)
 
-![click License Manager](./pics/sonarqube_LOCs_4.png)
+![click License Manager](./pics/sonarqube_LOCs_5.png)
 
 ---
 
