@@ -31,6 +31,8 @@
 
 ## [Sonar Qube 安裝](./SonarQubeInstall/README.md)
 
+## [Sonar Qube 設定 License Key](./Set_License_Key/README.md)
+
 ---
 
 ## TODO 分析參考
