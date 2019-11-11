@@ -80,21 +80,21 @@
 
   * 測試 workspace 專案
 
-    * e.g. 08專案
+    * 有使用 cocoapods 的專案
 
   * properties 是否可以建成樣本
 
 * Price 的確認
 
-  * OLC 行數 : 看起來似乎與原先想的 單一 project 上限似乎有出入。
+  * OLC 行數:
+    * 測試結果是全部專案的統計行數。
+    * 不過刪除專案行數會降回來
 
 * 結合 ci
 
   * Jenkins
 
 * sonar qube
-
-  * 刪除 project
 
   * branch 機制測試
 
